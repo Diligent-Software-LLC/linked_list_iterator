@@ -1,6 +1,6 @@
 # Changelog
 
-## v0.1.0, YEAR-MONTH-DAY
+## v0.1.0, 2020-04-14
 
 ### Added
 

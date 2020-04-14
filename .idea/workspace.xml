@@ -43,8 +43,11 @@
   <component name="ChangeListManager">
     <list default="true" id="b0346faa-0295-4df7-994c-2b6a6ef95915" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/linked_list_iterator.rb" beforeDir="false" afterPath="$PROJECT_DIR$/lib/linked_list_iterator.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/linked_list_iterator_test.rb" beforeDir="false" afterPath="$PROJECT_DIR$/test/linked_list_iterator_test.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.yardopts" beforeDir="false" afterPath="$PROJECT_DIR$/.yardopts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Changelog.md" beforeDir="false" afterPath="$PROJECT_DIR$/Changelog.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test_helper.rb" beforeDir="false" afterPath="$PROJECT_DIR$/test/test_helper.rb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +79,7 @@
     <property name="nodejs.protractor.protractor_package" value="" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.externalTools" />
+    <property name="settings.editor.selected.configurable" value="http.certificates" />
   </component>
   <component name="RunManager">
     <configuration name="LinkedListIteratorLibraryTest" type="TestUnitRunConfigurationType" factoryName="Test::Unit/Shoulda/Minitest" temporary="true" nameIsGenerated="true">
@@ -125,7 +128,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1586873761442</updated>
-      <workItem from="1586873764271" duration="2276000" />
+      <workItem from="1586873764271" duration="4830000" />
     </task>
     <task id="LOCAL-00001" summary="Setup Complete&#10;&#10;Wrote Gem Specification.">
       <created>1586875444026</created>
@@ -134,10 +137,17 @@
       <option name="project" value="LOCAL" />
       <updated>1586875444027</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Development Complete&#10;&#10;'require'd the LinkedListIterator implementation file.">
+      <created>1586879606111</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1586879606111</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers>
       <YouTrack url="https://macbook-pro.local:8443">
-        <option name="defaultSearch" value="project: LinkedList Subsystem: Iterator Component: Library Sprints: 4 State: Development" />
+        <option name="defaultSearch" value="project: LinkedList Subsystem: Iterator Component: Library Sprints: 4 State:{ Prepare Deploy} " />
         <username>admin</username>
       </YouTrack>
     </servers>
@@ -145,9 +155,21 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Setup Complete&#10;&#10;Wrote Gem Specification." />
-    <option name="LAST_COMMIT_MESSAGE" value="Setup Complete&#10;&#10;Wrote Gem Specification." />
+    <MESSAGE value="Development Complete&#10;&#10;'require'd the LinkedListIterator implementation file." />
+    <option name="LAST_COMMIT_MESSAGE" value="Development Complete&#10;&#10;'require'd the LinkedListIterator implementation file." />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
@@ -155,10 +177,10 @@
       <screen x="0" y="23" width="1680" height="975" />
     </state>
     <state x="443" y="175" key="#Servers/0.23.1680.975@0.23.1680.975" timestamp="1586873893652" />
-    <state x="134" y="46" width="1422" height="915" key="CommitChangelistDialog2" timestamp="1586875443079">
+    <state x="134" y="46" width="1422" height="915" key="CommitChangelistDialog2" timestamp="1586879605837">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
-    <state x="134" y="46" width="1422" height="915" key="CommitChangelistDialog2/0.23.1680.975@0.23.1680.975" timestamp="1586875443079" />
+    <state x="134" y="46" width="1422" height="915" key="CommitChangelistDialog2/0.23.1680.975@0.23.1680.975" timestamp="1586879605837" />
     <state width="1535" height="270" key="GridCell.Tab.0.bottom" timestamp="1586879348701">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
@@ -175,6 +197,10 @@
       <screen x="0" y="23" width="1680" height="975" />
     </state>
     <state width="1535" height="270" key="GridCell.Tab.0.right/0.23.1680.975@0.23.1680.975" timestamp="1586879348701" />
+    <state x="352" y="149" key="SettingsEditor" timestamp="1586880327111">
+      <screen x="0" y="23" width="1680" height="975" />
+    </state>
+    <state x="352" y="149" key="SettingsEditor/0.23.1680.975@0.23.1680.975" timestamp="1586880327111" />
     <state x="435" y="235" width="816" height="550" key="find.popup" timestamp="1586874578180">
       <screen x="0" y="23" width="1680" height="975" />
     </state>

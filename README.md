@@ -1,14 +1,17 @@
 # linked_list_iterator [![Gem Version](https://badge.fury.io/rb/linked_list_iterator.svg)](https://badge.fury.io/rb/linked_list_iterator) ![Gem](https://img.shields.io/gem/dt/linked_list_iterator) [![Build Status](https://travis-ci.com/Diligent-Software-LLC/linked_list_iterator.svg?branch=master)](https://travis-ci.com/Diligent-Software-LLC/linked_list_iterator)
 
-$DESCRIPTION$
+A LinkedListIterator library. Composes the LinkedListIterator components.
 
 ## Installation
 
-- Refer the [packages](https://docs.diligentsoftware.org/linkedlist-1/iterator/packages) page.
+- Refer the Library's 
+[Installation](https://docs.diligentsoftware.org/linkedlist-1/iterator/packages#library) 
+page section.
 
 ## Documentation
 
-- Refer the [Iterator](https://docs.diligentsoftware.org/linkedlist#iterator) homepage.
+- Refer the LinkedList homepage's 
+[Iterator](https://docs.diligentsoftware.org/linkedlist#iterator) section.
 
 ## Contributing
 
@@ -22,13 +25,12 @@ Greatly appreciated.
 
 ### Report Bugs
 
-Refer the [Bug Reporting Procedure](https://github.com/Diligent-Software-LLC/linked_list_iterator/issues/1).
+- Refer the [Bug Reporting Procedure](https://github.com/Diligent-Software-LLC/linked_list_iterator/issues/1).
 
 ### Fix Bugs
 
-Refer the [Bug Fixing Procedure](https://github.com/Diligent-Software-LLC/linked_list_iterator/issues/2).
+- Refer the [Bug Fixing Procedure](https://github.com/Diligent-Software-LLC/linked_list_iterator/issues/2).
 
 ### Improve Functionality
 
-Refer the [Improvements Procedure](https://github.com/Diligent-Software-LLC/linked_list_iterator/issues/3).
-
+- Refer the [Improvements Procedure](https://github.com/Diligent-Software-LLC/linked_list_iterator/issues/3).
