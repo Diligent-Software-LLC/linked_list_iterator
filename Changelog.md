@@ -4,12 +4,13 @@
 
 ### Added
 
--
+- 'require'd the LinkedListIterator implementation file.
+- README.md.
 
 ### Edited
 
--
+- Removed travis deploy configuration.
 
 ### Fixed
 
--
+- 'require' statements.
