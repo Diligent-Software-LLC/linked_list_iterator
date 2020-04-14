@@ -2,13 +2,15 @@ require_relative 'test_helper'
 
 # LinkedListIteratorLibraryTest.
 # @class_description
-#   Tests the LinkedListIteratorLibrary class.
+#   Tests the LinkedListIterator library.
 class LinkedListIteratorLibraryTest < Minitest::Test
+
+  CLASS = LinkedListIteratorLibrary
 
   # test_conf_doc_f_ex().
   # @description
-  #  The .travis.yml, CODE_OF_CONDUCT.md, Gemfile, LICENSE.txt, README.md, 
-  #  and .yardopts files exist.
+  #   The .travis.yml, CODE_OF_CONDUCT.md, Gemfile, LICENSE.txt, README.md,
+  #   and .yardopts files exist.
   def test_conf_doc_f_ex()
 
     assert_path_exists('.travis.yml')
@@ -24,7 +26,7 @@ class LinkedListIteratorLibraryTest < Minitest::Test
   # @description
   #   The version was declared.
   def test_version_declared()
-    refute_nil(LinkedListIteratorLibrary::VERSION)
+    refute_nil(CLASS::VERSION)
   end
 
   # setup().
@@ -35,9 +37,8 @@ class LinkedListIteratorLibraryTest < Minitest::Test
 
   # teardown().
   # @description
-  #  Cleanup.
+  #   Cleanup.
   def teardown()
   end
 
 end
-
