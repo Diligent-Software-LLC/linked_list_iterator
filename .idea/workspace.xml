@@ -42,10 +42,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b0346faa-0295-4df7-994c-2b6a6ef95915" name="Default Changelist" comment="Prepare Deployment&#10;&#10;Updated Changelog.md.">
+      <change beforePath="$PROJECT_DIR$/.idea/linked_list_iterator.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/linked_list_iterator.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/linked_list_iterator/version.rb" beforeDir="false" afterPath="$PROJECT_DIR$/lib/linked_list_iterator/version.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/linked_list_iterator.gemspec" beforeDir="false" afterPath="$PROJECT_DIR$/linked_list_iterator.gemspec" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -144,7 +143,7 @@
       <option name="presentableId" value="Default" />
       <updated>1586873761442</updated>
       <workItem from="1586873764271" duration="5583000" />
-      <workItem from="1587418255268" duration="265000" />
+      <workItem from="1587418255268" duration="533000" />
     </task>
     <task id="LOCAL-00001" summary="Setup Complete&#10;&#10;Wrote Gem Specification.">
       <created>1586875444026</created>
@@ -174,10 +173,17 @@
       <option name="project" value="LOCAL" />
       <updated>1586889125208</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Setup Complete&#10;&#10;Bumped version. Reformatted the Gem Specification. Edited dependencies.">
+      <created>1587418591048</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1587418591048</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers>
       <YouTrack url="https://macbook-pro.local:8443">
-        <option name="defaultSearch" value="project: LinkedList Subsystem: Iterator Component: Library Sprints: 7 State:{Setup} " />
+        <option name="defaultSearch" value="project: LinkedList Subsystem: Iterator Component: Library Sprints: 7 State:{Development} " />
         <username>admin</username>
       </YouTrack>
     </servers>
@@ -203,7 +209,8 @@
     <MESSAGE value="Development Complete&#10;&#10;'require'd the LinkedListIterator implementation file." />
     <MESSAGE value="Prepare Deployment&#10;&#10;Fixed 'require' statements. Removed travis deploy configuration. Wrote README.md." />
     <MESSAGE value="Prepare Deployment&#10;&#10;Updated Changelog.md." />
-    <option name="LAST_COMMIT_MESSAGE" value="Prepare Deployment&#10;&#10;Updated Changelog.md." />
+    <MESSAGE value="Setup Complete&#10;&#10;Bumped version. Reformatted the Gem Specification. Edited dependencies." />
+    <option name="LAST_COMMIT_MESSAGE" value="Setup Complete&#10;&#10;Bumped version. Reformatted the Gem Specification. Edited dependencies." />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
@@ -211,26 +218,26 @@
       <screen x="0" y="23" width="1680" height="975" />
     </state>
     <state x="443" y="175" key="#Servers/0.23.1680.975@0.23.1680.975" timestamp="1586873893652" />
-    <state x="134" y="46" width="1422" height="915" key="CommitChangelistDialog2" timestamp="1586889502212">
+    <state x="134" y="46" width="1422" height="915" key="CommitChangelistDialog2" timestamp="1587418590683">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
-    <state x="134" y="46" width="1422" height="915" key="CommitChangelistDialog2/0.23.1680.975@0.23.1680.975" timestamp="1586889502212" />
-    <state width="1564" height="270" key="GridCell.Tab.0.bottom" timestamp="1587418469757">
+    <state x="134" y="46" width="1422" height="915" key="CommitChangelistDialog2/0.23.1680.975@0.23.1680.975" timestamp="1587418590683" />
+    <state width="1564" height="270" key="GridCell.Tab.0.bottom" timestamp="1587418677389">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
-    <state width="1564" height="270" key="GridCell.Tab.0.bottom/0.23.1680.975@0.23.1680.975" timestamp="1587418469757" />
-    <state width="1564" height="270" key="GridCell.Tab.0.center" timestamp="1587418469755">
+    <state width="1564" height="270" key="GridCell.Tab.0.bottom/0.23.1680.975@0.23.1680.975" timestamp="1587418677389" />
+    <state width="1564" height="270" key="GridCell.Tab.0.center" timestamp="1587418677388">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
-    <state width="1564" height="270" key="GridCell.Tab.0.center/0.23.1680.975@0.23.1680.975" timestamp="1587418469755" />
-    <state width="1564" height="270" key="GridCell.Tab.0.left" timestamp="1587418469754">
+    <state width="1564" height="270" key="GridCell.Tab.0.center/0.23.1680.975@0.23.1680.975" timestamp="1587418677388" />
+    <state width="1564" height="270" key="GridCell.Tab.0.left" timestamp="1587418677388">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
-    <state width="1564" height="270" key="GridCell.Tab.0.left/0.23.1680.975@0.23.1680.975" timestamp="1587418469754" />
-    <state width="1564" height="270" key="GridCell.Tab.0.right" timestamp="1587418469756">
+    <state width="1564" height="270" key="GridCell.Tab.0.left/0.23.1680.975@0.23.1680.975" timestamp="1587418677388" />
+    <state width="1564" height="270" key="GridCell.Tab.0.right" timestamp="1587418677389">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
-    <state width="1564" height="270" key="GridCell.Tab.0.right/0.23.1680.975@0.23.1680.975" timestamp="1587418469756" />
+    <state width="1564" height="270" key="GridCell.Tab.0.right/0.23.1680.975@0.23.1680.975" timestamp="1587418677389" />
     <state x="352" y="149" key="SettingsEditor" timestamp="1586880327111">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
@@ -247,12 +254,12 @@
       <screen x="0" y="23" width="1680" height="975" />
     </state>
     <state x="508" y="235" width="670" height="675" key="run.anything.popup/0.23.1680.975@0.23.1680.975" timestamp="1586889628849" />
-    <state x="508" y="237" width="670" height="676" key="search.everywhere.popup" timestamp="1587418483313">
+    <state x="508" y="237" width="670" height="676" key="search.everywhere.popup" timestamp="1587418759801">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
-    <state x="508" y="237" width="670" height="676" key="search.everywhere.popup/0.23.1680.975@0.23.1680.975" timestamp="1587418483313" />
+    <state x="508" y="237" width="670" height="676" key="search.everywhere.popup/0.23.1680.975@0.23.1680.975" timestamp="1587418759801" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/linked_list_iterator@LinkedListIteratorLibraryTest.rcov" NAME="LinkedListIteratorLibraryTest Coverage Results" MODIFIED="1586879286824" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="linked_list_iterator" />
+    <SUITE FILE_PATH="coverage/linked_list_iterator@LinkedListIteratorLibraryTest.rcov" NAME="LinkedListIteratorLibraryTest Coverage Results" MODIFIED="1587418672649" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="linked_list_iterator" />
   </component>
 </project>
