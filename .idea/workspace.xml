@@ -52,7 +52,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageViewManager">
-    <option name="myElementSize" value="308" />
+    <option name="myElementSize" value="366" />
   </component>
   <component name="ExportToHTMLSettings">
     <option name="OPEN_IN_BROWSER" value="true" />
@@ -218,10 +218,10 @@
       <screen x="0" y="23" width="1680" height="975" />
     </state>
     <state x="443" y="175" key="#Servers/0.23.1680.975@0.23.1680.975" timestamp="1586873893652" />
-    <state x="134" y="46" width="1422" height="915" key="CommitChangelistDialog2" timestamp="1587418590683">
+    <state x="134" y="46" width="1422" height="915" key="CommitChangelistDialog2" timestamp="1587418820177">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
-    <state x="134" y="46" width="1422" height="915" key="CommitChangelistDialog2/0.23.1680.975@0.23.1680.975" timestamp="1587418590683" />
+    <state x="134" y="46" width="1422" height="915" key="CommitChangelistDialog2/0.23.1680.975@0.23.1680.975" timestamp="1587418820177" />
     <state width="1564" height="270" key="GridCell.Tab.0.bottom" timestamp="1587418677389">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
@@ -254,10 +254,10 @@
       <screen x="0" y="23" width="1680" height="975" />
     </state>
     <state x="508" y="235" width="670" height="675" key="run.anything.popup/0.23.1680.975@0.23.1680.975" timestamp="1586889628849" />
-    <state x="508" y="237" width="670" height="676" key="search.everywhere.popup" timestamp="1587418759801">
+    <state x="508" y="237" width="670" height="676" key="search.everywhere.popup" timestamp="1587418856106">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
-    <state x="508" y="237" width="670" height="676" key="search.everywhere.popup/0.23.1680.975@0.23.1680.975" timestamp="1587418759801" />
+    <state x="508" y="237" width="670" height="676" key="search.everywhere.popup/0.23.1680.975@0.23.1680.975" timestamp="1587418856106" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/linked_list_iterator@LinkedListIteratorLibraryTest.rcov" NAME="LinkedListIteratorLibraryTest Coverage Results" MODIFIED="1587418672649" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="linked_list_iterator" />
