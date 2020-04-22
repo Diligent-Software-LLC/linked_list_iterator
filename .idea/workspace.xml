@@ -42,11 +42,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b0346faa-0295-4df7-994c-2b6a6ef95915" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/linked_list_iterator.rb" beforeDir="false" afterPath="$PROJECT_DIR$/lib/linked_list_iterator.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/linked_list_iterator/version.rb" beforeDir="false" afterPath="$PROJECT_DIR$/lib/linked_list_iterator/version.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/linked_list_iterator.gemspec" beforeDir="false" afterPath="$PROJECT_DIR$/linked_list_iterator.gemspec" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Changelog.md" beforeDir="false" afterPath="$PROJECT_DIR$/Changelog.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +50,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageViewManager">
-    <option name="myElementSize" value="366" />
+    <option name="myElementSize" value="395" />
   </component>
   <component name="ExportToHTMLSettings">
     <option name="OPEN_IN_BROWSER" value="true" />
@@ -86,6 +82,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="http.certificates" />
+    <property name="ytplugin.issueListCompactView" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -151,7 +148,7 @@
       <updated>1586873761442</updated>
       <workItem from="1586873764271" duration="5583000" />
       <workItem from="1587418255268" duration="1221000" />
-      <workItem from="1587560761312" duration="824000" />
+      <workItem from="1587560761312" duration="1467000" />
     </task>
     <task id="LOCAL-00001" summary="Setup Complete&#10;&#10;Wrote Gem Specification.">
       <created>1586875444026</created>
@@ -202,10 +199,17 @@
       <option name="project" value="LOCAL" />
       <updated>1587418990178</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Setup Complete&#10;&#10;Bumped version. 'require'd the interface, implementation, and the node library. Deleted development dependencies. Added runtime dependencies.">
+      <created>1587561748906</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1587561748907</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers>
       <YouTrack url="https://macbook-pro.local:8443">
-        <option name="defaultSearch" value="project: LinkedList Subsystem: Iterator Component: Library Sprints: 8 State:{Setup} " />
+        <option name="defaultSearch" value="project: LinkedList Subsystem: Iterator Component: Library Sprints: 8 State:{Prepare Deployment}" />
         <username>admin</username>
       </YouTrack>
     </servers>
@@ -233,7 +237,8 @@
     <MESSAGE value="Setup Complete&#10;&#10;Bumped version. Reformatted the Gem Specification. Edited dependencies." />
     <MESSAGE value="Development Complete&#10;&#10;Bumped version." />
     <MESSAGE value="Prepare Deployment&#10;&#10;Updated Changelog.md." />
-    <option name="LAST_COMMIT_MESSAGE" value="Prepare Deployment&#10;&#10;Updated Changelog.md." />
+    <MESSAGE value="Setup Complete&#10;&#10;Bumped version. 'require'd the interface, implementation, and the node library. Deleted development dependencies. Added runtime dependencies." />
+    <option name="LAST_COMMIT_MESSAGE" value="Setup Complete&#10;&#10;Bumped version. 'require'd the interface, implementation, and the node library. Deleted development dependencies. Added runtime dependencies." />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
@@ -241,26 +246,26 @@
       <screen x="0" y="23" width="1680" height="975" />
     </state>
     <state x="443" y="175" key="#Servers/0.23.1680.975@0.23.1680.975" timestamp="1586873893652" />
-    <state x="134" y="46" width="1422" height="915" key="CommitChangelistDialog2" timestamp="1587418989920">
+    <state x="134" y="46" width="1422" height="915" key="CommitChangelistDialog2" timestamp="1587561748460">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
-    <state x="134" y="46" width="1422" height="915" key="CommitChangelistDialog2/0.23.1680.975@0.23.1680.975" timestamp="1587418989920" />
-    <state width="1564" height="270" key="GridCell.Tab.0.bottom" timestamp="1587561579806">
+    <state x="134" y="46" width="1422" height="915" key="CommitChangelistDialog2/0.23.1680.975@0.23.1680.975" timestamp="1587561748460" />
+    <state width="1564" height="270" key="GridCell.Tab.0.bottom" timestamp="1587561894490">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
-    <state width="1564" height="270" key="GridCell.Tab.0.bottom/0.23.1680.975@0.23.1680.975" timestamp="1587561579806" />
-    <state width="1564" height="270" key="GridCell.Tab.0.center" timestamp="1587561579805">
+    <state width="1564" height="270" key="GridCell.Tab.0.bottom/0.23.1680.975@0.23.1680.975" timestamp="1587561894490" />
+    <state width="1564" height="270" key="GridCell.Tab.0.center" timestamp="1587561894489">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
-    <state width="1564" height="270" key="GridCell.Tab.0.center/0.23.1680.975@0.23.1680.975" timestamp="1587561579805" />
-    <state width="1564" height="270" key="GridCell.Tab.0.left" timestamp="1587561579805">
+    <state width="1564" height="270" key="GridCell.Tab.0.center/0.23.1680.975@0.23.1680.975" timestamp="1587561894489" />
+    <state width="1564" height="270" key="GridCell.Tab.0.left" timestamp="1587561894488">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
-    <state width="1564" height="270" key="GridCell.Tab.0.left/0.23.1680.975@0.23.1680.975" timestamp="1587561579805" />
-    <state width="1564" height="270" key="GridCell.Tab.0.right" timestamp="1587561579806">
+    <state width="1564" height="270" key="GridCell.Tab.0.left/0.23.1680.975@0.23.1680.975" timestamp="1587561894488" />
+    <state width="1564" height="270" key="GridCell.Tab.0.right" timestamp="1587561894489">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
-    <state width="1564" height="270" key="GridCell.Tab.0.right/0.23.1680.975@0.23.1680.975" timestamp="1587561579806" />
+    <state width="1564" height="270" key="GridCell.Tab.0.right/0.23.1680.975@0.23.1680.975" timestamp="1587561894489" />
     <state x="352" y="149" key="SettingsEditor" timestamp="1586880327111">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
@@ -277,12 +282,12 @@
       <screen x="0" y="23" width="1680" height="975" />
     </state>
     <state x="508" y="235" width="670" height="675" key="run.anything.popup/0.23.1680.975@0.23.1680.975" timestamp="1586889628849" />
-    <state x="508" y="237" width="670" height="676" key="search.everywhere.popup" timestamp="1587561183824">
+    <state x="508" y="237" width="670" height="676" key="search.everywhere.popup" timestamp="1587562050495">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
-    <state x="508" y="237" width="670" height="676" key="search.everywhere.popup/0.23.1680.975@0.23.1680.975" timestamp="1587561183824" />
+    <state x="508" y="237" width="670" height="676" key="search.everywhere.popup/0.23.1680.975@0.23.1680.975" timestamp="1587562050495" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/linked_list_iterator@LinkedListIteratorLibraryTest.rcov" NAME="LinkedListIteratorLibraryTest Coverage Results" MODIFIED="1587561576385" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="linked_list_iterator" />
+    <SUITE FILE_PATH="coverage/linked_list_iterator@LinkedListIteratorLibraryTest.rcov" NAME="LinkedListIteratorLibraryTest Coverage Results" MODIFIED="1587561886742" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="linked_list_iterator" />
   </component>
 </project>
