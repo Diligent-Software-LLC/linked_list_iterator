@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    linked_list_iterator (1.1.0)
+    linked_list_iterator (1.2.0)
       lli_comp (~> 0)
       node (~> 4)
 

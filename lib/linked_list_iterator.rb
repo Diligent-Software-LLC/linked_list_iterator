@@ -2,12 +2,11 @@
 # under the GNU General Public License, Version 3. Refer LICENSE.txt.
 
 require_relative "linked_list_iterator/version"
-require 'linked_list_iterator_int'
-require 'linked_list_iterator_impl'
+require 'lli_comp'
 require 'node'
 
 # LinkedListIteratorLibrary.
 # @class_description
-#   A LinkedListIterator composition.
+#   A LinkedListIterator library. Organizes the LinkedListIterator components.
 class LinkedListIteratorLibrary
 end
