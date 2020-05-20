@@ -3,7 +3,7 @@
 
 # LinkedListIteratorLibrary.
 # @class_description
-#   A LinkedListIterator composition.
+#   A LinkedListIterator library. Organizes the LinkedListIterator components.
 class LinkedListIteratorLibrary
-  VERSION = '1.1.0'.freeze()
+  VERSION = '1.2.0'.freeze()
 end
