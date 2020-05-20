@@ -1,5 +1,20 @@
 # Changelog
 
+## v1.2.0, 2020-05-20
+
+### Added
+
+- 'require'd lli_comp and node.
+- Test coverage.
+
+### Edited
+
+- Gem Specification email, summary, description, homepage, and dependencies.
+- README.md's repository description, Installation content, and Documentation
+ content.
+
+### Fixed
+
 ## v1.1.0, 2020-04-21
 
 ### Added

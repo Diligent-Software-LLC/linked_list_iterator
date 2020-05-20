@@ -42,8 +42,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b0346faa-0295-4df7-994c-2b6a6ef95915" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/lib/linked_list_iterator.rb" beforeDir="false" afterPath="$PROJECT_DIR$/lib/linked_list_iterator.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/linked_list_iterator_test.rb" beforeDir="false" afterPath="$PROJECT_DIR$/test/linked_list_iterator_test.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Changelog.md" beforeDir="false" afterPath="$PROJECT_DIR$/Changelog.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +50,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageViewManager">
-    <option name="myElementSize" value="395" />
+    <option name="myElementSize" value="407" />
   </component>
   <component name="ExportToHTMLSettings">
     <option name="OPEN_IN_BROWSER" value="true" />
@@ -150,7 +149,7 @@
       <workItem from="1586873764271" duration="5583000" />
       <workItem from="1587418255268" duration="1221000" />
       <workItem from="1587560761312" duration="1988000" />
-      <workItem from="1589990448714" duration="883000" />
+      <workItem from="1589990448714" duration="1466000" />
     </task>
     <task id="LOCAL-00001" summary="Setup Complete&#10;&#10;Wrote Gem Specification.">
       <created>1586875444026</created>
@@ -222,10 +221,17 @@
       <option name="project" value="LOCAL" />
       <updated>1589991189167</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Development Complete&#10;&#10;'require'd lli_comp and node. Added test coverage.">
+      <created>1589991623625</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1589991623625</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers>
       <YouTrack url="https://macbook-pro.local:8443">
-        <option name="defaultSearch" value="project: LinkedList Subsystem: Iterator Component: Library Sprints: 9 State: {Development}" />
+        <option name="defaultSearch" value="project: LinkedList Subsystem: Iterator Component: Library Sprints: 9 State: {Prepare Deployment}" />
         <username>admin</username>
       </YouTrack>
     </servers>
@@ -255,17 +261,18 @@
     <MESSAGE value="Setup Complete&#10;&#10;Bumped version. 'require'd the interface, implementation, and the node library. Deleted development dependencies. Added runtime dependencies." />
     <MESSAGE value="Prepare Deployment&#10;&#10;Updated Changelog.md." />
     <MESSAGE value="Setup Complete&#10;&#10;Bumped Minor Version. Edited Gem Specification email, summary, description, homepage, and dependencies. Edited README.md's repository description, Installation content, and Documentation content." />
-    <option name="LAST_COMMIT_MESSAGE" value="Setup Complete&#10;&#10;Bumped Minor Version. Edited Gem Specification email, summary, description, homepage, and dependencies. Edited README.md's repository description, Installation content, and Documentation content." />
+    <MESSAGE value="Development Complete&#10;&#10;'require'd lli_comp and node. Added test coverage." />
+    <option name="LAST_COMMIT_MESSAGE" value="Development Complete&#10;&#10;'require'd lli_comp and node. Added test coverage." />
   </component>
   <component name="WindowStateProjectService">
     <state x="443" y="175" key="#Servers" timestamp="1586873893652">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
     <state x="443" y="175" key="#Servers/0.23.1680.975@0.23.1680.975" timestamp="1586873893652" />
-    <state x="52" y="45" width="1563" height="911" key="CommitChangelistDialog2" timestamp="1589991188822">
+    <state x="52" y="45" width="1563" height="911" key="CommitChangelistDialog2" timestamp="1589991623372">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
-    <state x="52" y="45" width="1563" height="911" key="CommitChangelistDialog2/0.23.1680.975@0.23.1680.975" timestamp="1589991188822" />
+    <state x="52" y="45" width="1563" height="911" key="CommitChangelistDialog2/0.23.1680.975@0.23.1680.975" timestamp="1589991623372" />
     <state width="1564" height="270" key="GridCell.Tab.0.bottom" timestamp="1589991488661">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
@@ -298,10 +305,10 @@
       <screen x="0" y="23" width="1680" height="975" />
     </state>
     <state x="508" y="235" width="670" height="675" key="run.anything.popup/0.23.1680.975@0.23.1680.975" timestamp="1586889628849" />
-    <state x="508" y="237" width="670" height="676" key="search.everywhere.popup" timestamp="1589991531640">
+    <state x="508" y="237" width="670" height="676" key="search.everywhere.popup" timestamp="1589991699539">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
-    <state x="508" y="237" width="670" height="676" key="search.everywhere.popup/0.23.1680.975@0.23.1680.975" timestamp="1589991531640" />
+    <state x="508" y="237" width="670" height="676" key="search.everywhere.popup/0.23.1680.975@0.23.1680.975" timestamp="1589991699539" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/linked_list_iterator@LinkedListIteratorLibraryTest.rcov" NAME="LinkedListIteratorLibraryTest Coverage Results" MODIFIED="1589991484896" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="linked_list_iterator" />
